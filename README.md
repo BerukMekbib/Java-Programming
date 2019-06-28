@@ -1,4 +1,5 @@
-## ITI-1121
-
-# Course taken at University of Ottawa
+# ITI-1121
 # Introduction to Java
+
+Course taken at University of Ottawa
+

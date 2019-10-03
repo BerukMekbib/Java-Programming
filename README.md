@@ -5,6 +5,6 @@ Course taken at University of Ottawa
 
 
 **Projects**
-Lights Out 
+* Lights Out 
 * graphical user interface   
 * Pastiche - plagiarism detection

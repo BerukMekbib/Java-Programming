@@ -5,6 +5,5 @@ Course taken at University of Ottawa
 
 
 **Projects**
-* Lights Out 
-* graphical user interface   
-* Pastiche - plagiarism detection
+* [Lights Out](https://github.com/qiinori/ITI-1121/tree/master/Assignments/A2)
+* [Pastiche - plagiarism detection](https://github.com/qiinori/ITI-1121/tree/master/Assignments/A4)
